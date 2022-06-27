@@ -1,6 +1,6 @@
 ## Olá, me chamo Garcia, e sou estudante de desenvolvimento web
 
-- Sou apaixonado por tecnologia e busco mudar a vida das pessoas com programação 
+- Sou apaixonado por tecnologia e busco mudar a vida das pessoas com a programação 
 
 
 ### Contatos
