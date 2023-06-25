@@ -1,6 +1,5 @@
-## Olá, me chamo Garcia, e sou estudante de desenvolvimento web
-
-- Sou apaixonado por tecnologia e busco mudar a vida das pessoas com a programação 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Falaa+Devs;Bem+vindos)](https://git.io/typing-svg)
+ 
 
 
 ### Contatos
