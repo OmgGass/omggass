@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Falaa+Devs;Bem+vindos)](https://git.io/typing-svg)
- 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=1000&color=FF9302&width=435&lines=Hi+Devs;I'm+Garcia)](https://git.io/typing-svg)
 
 ### Contatos
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/kentoka)
