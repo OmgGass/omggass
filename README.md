@@ -10,7 +10,7 @@
 - 📫 How to reach me **omggass@gmail.com**
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrasuca&theme=dracula" alt="devbrasuca" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devbrasuca&theme=dracula" alt="devbrasuca" /></p>
 
 
 ![itscauagarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=devbrasuca&show_icons=true&theme=dracula)
