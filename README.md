@@ -15,6 +15,9 @@
 
 ![itscauagarcia GitHub stats](https://github-readme-stats.vercel.app/api?username=devbrasuca&show_icons=true&theme=dracula)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devbrasuca&show_icons=true&locale=en&layout=compact&theme=radical" alt="devbrasuca" /></p>
+
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itscauagarcia&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### You can contact me in:
