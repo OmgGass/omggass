@@ -1,22 +1,28 @@
+# [I'm Garcia]
+
+> Desenvolvedor Júnior | Rust | Linux
+
 <p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=omggass&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="ilustração do status do github">
-  
-<img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=omggass&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+  <a href="https://github.com/SEU-USUARIO-GITHUB">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omggass&show_icons=true&theme=dracula&line_height=27" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omggass&layout=compact&theme=dracula" />
+  </a>
 </p>
 
+---
 
-<div align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=arch,java,bash,html,css,js,git)](https://skillicons.dev)
-</div>
+### Main Skills 
 
-<div align="center">
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Static Badge](https://img.shields.io/badge/twitter-black)](https://x.com/devbrasuca)
-[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/eucauagarcia/)
-</div>
+---
 
+### Contacts
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/imcauagarcia)
+&nbsp;
+<a href="mailto:imcauagarcia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
