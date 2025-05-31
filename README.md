@@ -1,10 +1,10 @@
-# [Seu Nome]
+# [Hi, I'm Garcia]
 
-Desenvolvedor de Software Júnior com foco em Rust e Linux.
+Junior Software Developer focused on Rust and Linux.
 
-* 🦀 Atualmente aprofundando meus conhecimentos em **Rust** para sistemas de alta performance.
-* 🐧 Usuário experiente de **Linux**, com vivência em Arch.
-* 💬 Aberto para discutir sobre tecnologia, programação de sistemas e projetos open source.
+    🦀 Currently deepening my knowledge in Rust for high-performance systems.
+    🐧 Experienced Linux user, with hands-on experience in Arch.
+    💬 Open to discussing technology, systems programming, and open-source projects.
 
 ---
 
